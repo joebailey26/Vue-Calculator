@@ -1,4 +1,4 @@
-# day-3-1
+# Calculator
 
 ## Project setup
 ```
